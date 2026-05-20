@@ -210,17 +210,20 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 ## 🎓 Domain Certifications & Advanced Training
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Certification_Inventory-160%2B-00d4ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification_Inventory-170%2B-00d4ff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/UAV--1_Pilot_License-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO/IEC_27001-Lead_Auditor-00e676?style=for-the-badge&logoColor=white" />
 </div>
 
 <details>
-<summary><b>📜 Lisanslar ve Sertifikalar (160+)</b></summary>
+<summary><b>📜 Lisanslar ve Sertifikalar (170+)</b></summary>
 <br />
 
 | Date | Certification Name | Institution | Credential ID |
 | :--- | :--- | :--- | :--- |
+| May 2026 | Kendi İşini Kurmak: Girişimcilik Temelleri ve İş Modeli Geliştirme | T3 Akademi | — |
+| May 2026 | Dijital Yetkinlikler ve Sürdürülebilirlik | T3 Akademi | — |
+| May 2026 | Sanat Tarihi - I | T3 Akademi | — |
 | May 2026 | Yeni Başlayanlar için Podcast | T3 Akademi | — |
 | May 2026 | Dijital İçerik Yazarlığı | T3 Akademi | — |
 | May 2026 | Medya Okuryazarlığı | T3 Akademi | — |
