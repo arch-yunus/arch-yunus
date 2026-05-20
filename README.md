@@ -210,17 +210,32 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 ## 🎓 Domain Certifications & Advanced Training
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Certification_Inventory-150%2B-00d4ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification_Inventory-160%2B-00d4ff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/UAV--1_Pilot_License-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO/IEC_27001-Lead_Auditor-00e676?style=for-the-badge&logoColor=white" />
 </div>
 
 <details>
-<summary><b>📜 Lisanslar ve Sertifikalar (150+)</b></summary>
+<summary><b>📜 Lisanslar ve Sertifikalar (160+)</b></summary>
 <br />
 
 | Date | Certification Name | Institution | Credential ID |
 | :--- | :--- | :--- | :--- |
+| May 2026 | Yeni Başlayanlar için Podcast | T3 Akademi | — |
+| May 2026 | Dijital İçerik Yazarlığı | T3 Akademi | — |
+| May 2026 | Medya Okuryazarlığı | T3 Akademi | — |
+| May 2026 | İnsansız Su Altı Aracı | T3 Akademi | — |
+| May 2026 | Dijital Diplomasi | T3 Akademi | — |
+| May 2026 | Dijital İçerik Üretimi | T3 Akademi | — |
+| May 2026 | Etkili Özgeçmiş Hazırlama | T3 Akademi | — |
+| May 2026 | Zaman Yönetimi | T3 Akademi | — |
+| May 2026 | İlgi Çekici ve Etkileşim Yaratıcı İçerik Üretimi | T3 Akademi | — |
+| May 2026 | Finans Yönetimi | Ankara Üniversitesi Siyasal Bilgiler Fakültesi | aaG1FrnANKp |
+| May 2026 | Eğitimde Oyunlaştırma ve Web 2.0 Araçları | BTK Akademi | L8dcn0rBP9 |
+| May 2026 | Türk Kültür Mitolojisinde Türeyiş-Yeniden Doğuş Sembolü:Kurt | Türk Dünyası Gençlik Vakfı | 2026_KTÜ6146132280674 |
+| May 2026 | Üretken Yapay Zekâ ile Sunum Hazırlama | BTK Akademi | BozfxNda6B |
+| May 2026 | Kamp+ Siber Güvenlik Kampı | Bilgi Güvenliği Derneği | — |
+| Apr 2026 | Bilgi Okuryazarlığı | BTK Akademi | m6oqskdgbJJ |
 | Apr 2026 | Dijital Okuryazarlık | BTK Akademi | w92KSm8LyqD |
 | Apr 2026 | Vatandaşlık Okuryazarlığı | BTK Akademi | N28vfnvx6yl |
 | Apr 2026 | Veri Okuryazarlığı | BTK Akademi | qEgjTeL4MVk |
@@ -232,6 +247,7 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 | Apr 2026 | Web Tabanlı Coğrafi Bilgi Sistemleri | BTK Akademi | dx1hlM8eWG |
 | Apr 2026 | Ford Otosan Kariyer ve Gelişim Haftası | Ford Otosan | — |
 | Apr 2026 | Nesnelerin İnterneti (IoT) ve Güvenliği | BTK Akademi | XV1hWjGjJn |
+| Apr 2026 | Kamu İhale Kanunu | BTK Akademi | XV1hW1napx |
 | Apr 2026 | TUA ASTRO HACKATHON | Türkiye Uzay Ajansı | — |
 | Apr 2026 | 5-Day White Hat Hacker Bootcamp | Siber Vatan / DOKA | — |
 | Mar 2026 | INTERSTELLAR PROBLEM SOLVER | Türkiye Uzay Ajansı | — |
