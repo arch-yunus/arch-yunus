@@ -210,17 +210,27 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 ## 🎓 Domain Certifications & Advanced Training
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Certification_Inventory-170%2B-00d4ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification_Inventory-180%2B-00d4ff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/UAV--1_Pilot_License-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO/IEC_27001-Lead_Auditor-00e676?style=for-the-badge&logoColor=white" />
 </div>
 
 <details>
-<summary><b>📜 Lisanslar ve Sertifikalar (170+)</b></summary>
+<summary><b>📜 Lisanslar ve Sertifikalar (180+)</b></summary>
 <br />
 
 | Date | Certification Name | Institution | Credential ID |
 | :--- | :--- | :--- | :--- |
+| May 2026 | Roket | T3 Akademi | — |
+| May 2026 | Girişimci Yetiştirme Programı | T3 Girişim Merkezi | — |
+| May 2026 | E-Ticaret ve SEO | T3 Akademi | — |
+| May 2026 | Siber Güvenlik-I | T3 Akademi | — |
+| May 2026 | Akademik Makale Yazım | T3 Akademi | — |
+| May 2026 | Etkileme ve İkna Sanatı | T3 Akademi | — |
+| May 2026 | Kuantum Hesaplama İleri Düzey Giriş | T3 Akademi | — |
+| May 2026 | Orta Doğu'Da Türkmen Varlığı: Suriye Ve Irak Örneği | Türk Dünyası Gençlik Vakfı | 2026_KTÜ6146154374512 |
+| May 2026 | Enerjinin Geleceği: Nükleer Teknolojiye Derinlemesine Giriş | T3 Akademi | — |
+| May 2026 | Büyüme Odaklı Dijital Medya Stratejileri | T3 Akademi | — |
 | May 2026 | Kendi İşini Kurmak: Girişimcilik Temelleri ve İş Modeli Geliştirme | T3 Akademi | — |
 | May 2026 | Dijital Yetkinlikler ve Sürdürülebilirlik | T3 Akademi | — |
 | May 2026 | Sanat Tarihi - I | T3 Akademi | — |
