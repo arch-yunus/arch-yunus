@@ -8,11 +8,11 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=AI%20Developer%20%7C%20UAV%20Technician%20%7C%20ROS2%2C%20C%2B%2B%2C%20Embedded%20Systems&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=AI%20Developer%20%7C%20%20%20%20ROS2%2C%20C%2B%2B%2C%20Embedded%20Systems&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
   <br>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=850&lines=AI+Developer+%26+UAV+Technician;ROS2,+C%2B%2B,+Embedded+Systems;Hardware-Software+Integration;Epistemic+Technology+Philosophy" alt="Elite Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=850&lines=AI+Developer;ROS2,+C%2B%2B,+Embedded+Systems;Hardware-Software+Integration;Epistemic+Technology+Philosophy" alt="Elite Typing SVG" />
   </p>
 
   <p>
@@ -25,17 +25,7 @@
 </div>
 
 ---
-# Professional Profile
 
-
-
-AI Developer & UAV Technician | ROS2, C++, Embedded Systems | Hardware-Software Integration | Epistemic Technology Philosophy
-
-My software journey began in August 2023 with the relentless discipline of a self-taught developer. In an era where the AI revolution is rapidly reshaping white-collar roles, I firmly believe the future belongs to the "new-collar" workforce—those who bridge the gap between digital code and the physical world. Driven by this vision, I am grounding my software foundation in hands-on Unmanned Aerial Vehicle (UAV) Technology and Operations.
-
-My work centers on Autonomous Systems (ROS2) and Large Language Model (LLM) architectures, dealing directly with real-time (RTOS) robotic control systems, embedded hardware, and on-premise AI models. I build my technical expertise on a hybrid stack of Python (PyTorch/TensorFlow) and C++ (17/20), but I go beyond the screen: I embrace the blue-collar reality of physically building, integrating, and troubleshooting the hardware systems myself.
-
-By combining the analytical mind of a self-taught coder with the grit and field discipline of a technician, I solve mission-critical problems in the Defense and Autonomous Vehicle sectors. I am not just designing systems behind a desk; I am a hands-on technology builder who writes the code, turns the wrench, and operates the system in the field.
 
 
 
