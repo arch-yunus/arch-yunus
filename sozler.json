@@ -21,7 +21,7 @@
     },
     {
         "text": "En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius",
@@ -61,7 +61,7 @@
     },
     {
         "text": "Zulüm ile abad olanın, ahiri berbad olur. - Molla Gürani",
-        "used": false
+        "used": true
     },
     {
         "text": "Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç",
@@ -249,7 +249,7 @@
     },
     {
         "text": "Devletin temeli adalettir. - Hz. Ömer",
-        "used": false
+        "used": true
     },
     {
         "text": "Bir devletin yıkılışı, adalet mefhumunun sarsılmasıyla başlar. - Kınalızade Ali Efendi",
@@ -285,11 +285,11 @@
     },
     {
         "text": "İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek",
-        "used": false
+        "used": true
     },
     {
         "text": "Devler gibi eserler bırakmak için, karıncalar gibi çalışmak lazım. - Necip Fazıl Kısakürek",
-        "used": false
+        "used": true
     },
     {
         "text": "Düşünüyorum, öyleyse varım. - Rene Descartes",
