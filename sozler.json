@@ -29,7 +29,7 @@
     },
     {
         "text": "Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna",
-        "used": false
+        "used": true
     },
     {
         "text": "Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç",
@@ -69,7 +69,7 @@
     },
     {
         "text": "Padişahlık, adaletle kaimdir; zulümle payidar olmaz. - II. Murat",
-        "used": false
+        "used": true
     },
     {
         "text": "Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa",
@@ -261,7 +261,7 @@
     },
     {
         "text": "İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles",
-        "used": false
+        "used": true
     },
     {
         "text": "İlim, gerçeğin peşinde nefes tüketmektir. - Aziz Sancar",
@@ -293,7 +293,7 @@
     },
     {
         "text": "Düşünüyorum, öyleyse varım. - Rene Descartes",
-        "used": false
+        "used": true
     },
     {
         "text": "En büyük zafer, hiç düşmemek değil, her düştüğünde ayağa kalkmaktır. - Konfüçyüs",
@@ -345,7 +345,7 @@
     },
     {
         "text": "Yalnızca bilmek yetmez, uygulamak da gerekir; istemek yetmez, yapmak da gerekir. - Johann Wolfgang von Goethe",
-        "used": false
+        "used": true
     },
     {
         "text": "Kaosun içinde fırsat yatar. - Sun Tzu",
