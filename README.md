@@ -202,11 +202,21 @@
 </div>
 
 <details>
-<summary><b>📜 Lisanslar ve Sertifikalar (180+)</b></summary>
+<summary><b>📜 Lisanslar ve Sertifikalar (190+)</b></summary>
 <br />
 
 | Date | Certification Name | Institution | Credential ID |
 | :--- | :--- | :--- | :--- |
+| May 2026 | Uygulamalı Kaggle | BTK Akademi | nKqhnLg2Xk |
+| May 2026 | Bulut Bilişim Mimarileri | BTK Akademi | 8jmhNYGW1m |
+| May 2026 | Microsoft Word Temelleri | BTK Akademi | mKEhkdwO6L |
+| May 2026 | Adli Bilişime Giriş | BTK Akademi | dx1hla67nb |
+| May 2026 | Yazılım Geliştirme Araçları | BTK Akademi | jK1hKXNyYr |
+| May 2026 | Veri Bilimi ve Yapay Zekaya Giriş | Turkcell Geleceği Yazanlar | — |
+| May 2026 | İnsansız Hava Aracı | T3 Akademi | — |
+| May 2026 | Veri Okuryazarlığı | Turkcell Geleceği Yazanlar | — |
+| May 2026 | Python Programlama | T3 Akademi | — |
+| May 2026 | 101: HTML | Turkcell Geleceği Yazanlar | — |
 | May 2026 | Roket | T3 Akademi | — |
 | May 2026 | Girişimci Yetiştirme Programı | T3 Girişim Merkezi | — |
 | May 2026 | E-Ticaret ve SEO | T3 Akademi | — |
