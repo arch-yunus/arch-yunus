@@ -17,7 +17,7 @@
     },
     {
         "text": "Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna",
-        "used": false
+        "used": true
     },
     {
         "text": "En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu",
@@ -77,7 +77,7 @@
     },
     {
         "text": "Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna",
@@ -109,7 +109,7 @@
     },
     {
         "text": "İnsanları tanıyan yalnızlaşır. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu",
@@ -253,7 +253,7 @@
     },
     {
         "text": "Bir devletin yıkılışı, adalet mefhumunun sarsılmasıyla başlar. - Kınalızade Ali Efendi",
-        "used": false
+        "used": true
     },
     {
         "text": "Güçlü olan haklı değil, haklı olan güçlü olmalıdır. - Şeyh Şamil",
@@ -277,7 +277,7 @@
     },
     {
         "text": "Üretmeyen toplumlar, tüketmeye ve yok olmaya mahkumdur. - Mehmet Akif Ersoy",
-        "used": false
+        "used": true
     },
     {
         "text": "Girmeden tefrika bir millete, düşman giremez. - Mehmet Akif Ersoy",
