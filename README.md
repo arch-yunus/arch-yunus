@@ -211,6 +211,18 @@
 | May 2026 | Bulut Bilişim Mimarileri | BTK Akademi | 8jmhNYGW1m |
 | May 2026 | Microsoft Word Temelleri | BTK Akademi | mKEhkdwO6L |
 | May 2026 | Adli Bilişime Giriş | BTK Akademi | dx1hla67nb |
+| May 2026 | Python Programlama 301 | Turkcell Geleceği Yazanlar | — |
+| May 2026 | Python Programlama 201 | Turkcell Geleceği Yazanlar | — |
+| May 2026 | Python Programlama 101 | Turkcell Geleceği Yazanlar | — |
+| May 2026 | Python 201 | Turkcell Geleceği Yazanlar | — |
+| May 2026 | 402: MongoDB | Turkcell Geleceği Yazanlar | — |
+| May 2026 | 401: Node.js | Turkcell Geleceği Yazanlar | — |
+| May 2026 | 302: JQuery | Turkcell Geleceği Yazanlar | — |
+| May 2026 | 301: JavaScript | Turkcell Geleceği Yazanlar | — |
+| May 2026 | 201: HTML5 & CSS | Turkcell Geleceği Yazanlar | — |
+| May 2026 | Temel Linux 101 | Turkcell Geleceği Yazanlar | — |
+| May 2026 | Python 101 | Turkcell Geleceği Yazanlar | — |
+| May 2026 | Arduino 101 | Turkcell Geleceği Yazanlar | — |
 | May 2026 | Yazılım Geliştirme Araçları | BTK Akademi | jK1hKXNyYr |
 | May 2026 | Veri Bilimi ve Yapay Zekaya Giriş | Turkcell Geleceği Yazanlar | — |
 | May 2026 | İnsansız Hava Aracı | T3 Akademi | — |
