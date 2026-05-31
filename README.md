@@ -196,17 +196,29 @@
 ## 🎓 Domain Certifications & Advanced Training
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Certification_Inventory-202%2B-00d4ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification_Inventory-214%2B-00d4ff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/UAV--1_Pilot_License-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO/IEC_27001-Lead_Auditor-00e676?style=for-the-badge&logoColor=white" />
 </div>
 
 <details>
-<summary><b>📜 Lisanslar ve Sertifikalar (202+)</b></summary>
+<summary><b>📜 Lisanslar ve Sertifikalar (214+)</b></summary>
 <br />
 
 | Date | Certification Name | Institution | Credential ID |
 | :--- | :--- | :--- | :--- |
+| May 2026 | KOBİ’ler İçin Fikri Mülkiyet Hakları | Bilgeİş | 6485390c-381b-4e78-aeec-634879114b74 |
+| May 2026 | Teknoloji ve Verimliliğin Anahtarı Yenilikçi Firmalar | Bilgeİş | 05b9ff0f-5bf1-42b4-bd8f-789734134a67 |
+| May 2026 | İnternette Güvenliğinizi Arttırın | Bilgeİş | b68d9857-fae2-4100-800d-a2f99c6b4a00 |
+| May 2026 | Şikayet Yönetimi | Bilgeİş | 8fefbcd1-c76d-444b-8d0a-22b64eab404b |
+| May 2026 | Kurumlarda Stres Yönetimi | Bilgeİş | 8e2b7e9f-ba74-489e-856e-dc0d1edf1e76 |
+| May 2026 | İşiniz İçin Sosyal Medya | Bilgeİş | 8c75eedb-cfde-434a-921b-6688970bb107 |
+| May 2026 | Genel İş Sağlığı ve Güvenliği | Bilgeİş | 0ea58e7a-b577-4708-9cc9-8288f876dba4 |
+| May 2026 | Tasarım Odaklı Düşünme'ye Giriş | Bilgeİş | 65789142-d220-4067-b5b3-aa91c80e4d35 |
+| May 2026 | Zor İnsanlarla Baş Etme | Bilgeİş | fa215315-706d-45d2-903c-fd667626a43d |
+| May 2026 | Programlamanın Temelleri | Bilgeİş | 0276249b-a986-4f67-be92-fc882e1468d5 |
+| May 2026 | Kişisel Stres Yönetimi | Bilgeİş | 6488a577-e9fc-485b-829c-839d71c55f44 |
+| May 2026 | Liderlik | Bilgeİş | 4f43acef-7ec0-48c0-a9ee-c67af2f10072 |
 | May 2026 | Uygulamalı Kaggle | BTK Akademi | nKqhnLg2Xk |
 | May 2026 | Bulut Bilişim Mimarileri | BTK Akademi | 8jmhNYGW1m |
 | May 2026 | Microsoft Word Temelleri | BTK Akademi | mKEhkdwO6L |
