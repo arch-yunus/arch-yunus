@@ -13,7 +13,7 @@
     },
     {
         "text": "İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna",
@@ -129,7 +129,7 @@
     },
     {
         "text": "Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev",
-        "used": false
+        "used": true
     },
     {
         "text": "Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali",
@@ -141,7 +141,7 @@
     },
     {
         "text": "Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani",
-        "used": false
+        "used": true
     },
     {
         "text": "İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu",
@@ -149,7 +149,7 @@
     },
     {
         "text": "Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Mağluplar galipleri taklit ederler. - İbn Haldun",
@@ -365,7 +365,7 @@
     },
     {
         "text": "En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles",
-        "used": false
+        "used": true
     },
     {
         "text": "Dostu olmayan bir insan, bir kolu olmayan bir insana benzer. - Hz. Ömer",
