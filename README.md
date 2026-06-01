@@ -196,17 +196,23 @@
 ## 🎓 Domain Certifications & Advanced Training
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Certification_Inventory-214%2B-00d4ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification_Inventory-220%2B-00d4ff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/UAV--1_Pilot_License-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO/IEC_27001-Lead_Auditor-00e676?style=for-the-badge&logoColor=white" />
 </div>
 
 <details>
-<summary><b>📜 Lisanslar ve Sertifikalar (214+)</b></summary>
+<summary><b>📜 Lisanslar ve Sertifikalar (220+)</b></summary>
 <br />
 
 | Date | Certification Name | Institution | Credential ID |
 | :--- | :--- | :--- | :--- |
+| Haz 2026 | KOBİ’ler İçin Sanal Gerçeklik | Bilgeİş | 3b6c9092-b762-486d-ad41-7f607a2627cd |
+| Haz 2026 | Yeni Başlayanlar İçin Raspberry Pi | Bilgeİş | fc6a2f8b-029c-4aaf-80f6-5b7594e90aa8 |
+| Haz 2026 | Prompt Mühendisliği | Turkcell Geleceği Yazanlar | — |
+| Haz 2026 | Robotik Programlama | Bilgeİş | 9f46b3f5-5dc3-49b6-9435-999214405d89 |
+| Haz 2026 | Temel Elektronik | Bilgeİş | f0bda3dc-c410-4ff7-b699-9c3c9a161ff7 |
+| Haz 2026 | Javascript | Bilgeİş | 00dee6f8-1e4c-44d6-9530-92a397c70bcc |
 | May 2026 | KOBİ’ler İçin Fikri Mülkiyet Hakları | Bilgeİş | 6485390c-381b-4e78-aeec-634879114b74 |
 | May 2026 | Teknoloji ve Verimliliğin Anahtarı Yenilikçi Firmalar | Bilgeİş | 05b9ff0f-5bf1-42b4-bd8f-789734134a67 |
 | May 2026 | İnternette Güvenliğinizi Arttırın | Bilgeİş | b68d9857-fae2-4100-800d-a2f99c6b4a00 |
