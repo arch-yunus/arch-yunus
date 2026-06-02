@@ -196,17 +196,37 @@
 ## 🎓 Domain Certifications & Advanced Training
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Certification_Inventory-220%2B-00d4ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification_Inventory-240%2B-00d4ff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/UAV--1_Pilot_License-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO/IEC_27001-Lead_Auditor-00e676?style=for-the-badge&logoColor=white" />
 </div>
 
 <details>
-<summary><b>📜 Lisanslar ve Sertifikalar (220+)</b></summary>
+<summary><b>📜 Lisanslar ve Sertifikalar (240+)</b></summary>
 <br />
 
 | Date | Certification Name | Institution | Credential ID |
 | :--- | :--- | :--- | :--- |
+| Haz 2026 | GİRİŞİMCİLİK Göknur ATALAY | TBD TÜRKİYE BİLİŞİM DERNEĞİ | 0a42b103-3f6b-4c2b-a9ac-4d524da87ff1 |
+| Haz 2026 | GİRİŞİMCİLİK Nazlı AKYAY | TBD TÜRKİYE BİLİŞİM DERNEĞİ | 53cc0f9c-1481-44fb-a9e6-1f63861e5135 |
+| Haz 2026 | GİRİŞİMCİLİK Ayşe Kuyrukcu | TBD TÜRKİYE BİLİŞİM DERNEĞİ | 4c4982fa-6abb-41b6-925c-d65ed8019582 |
+| Haz 2026 | Herkes için Yapay Zeka I | Bilgeİş | 9b675ab7-bab4-44c2-aba3-d86678a0d68d |
+| Haz 2026 | Arduino ile Mikrodenetleyiciler 3 (Sensörden Veri Okuma) | Bilgeİş | a02aa4b3-ff7d-4359-9cbe-00bc4f4f44e6 |
+| Haz 2026 | CSS | Bilgeİş | 9078c781-b170-433c-9087-e6af96cd5aaa |
+| Haz 2026 | Arduino ile Mikrodenetleyicilere Giriş | Bilgeİş | ada8e3c4-6aa1-4ef7-9468-61c55038b01b |
+| Haz 2026 | SOSYAL MEDYA | TBD TÜRKİYE BİLİŞİM DERNEĞİ | 19897818-7319-4ca5-b9db-63d579b04551 |
+| Haz 2026 | SATIŞ VE PAZARLAMA | TBD TÜRKİYE BİLİŞİM DERNEĞİ | b35223a5-5755-4776-b05b-6c6d3f070cf9 |
+| Haz 2026 | HUKUKİ MEVZUAT Yiğit Gökçen | TBD TÜRKİYE BİLİŞİM DERNEĞİ | 3468eb1e-b45b-472a-95f5-be5f7c175d30 |
+| Haz 2026 | HUKUKİ MEVZUAT Çiğdem Çamurdan | TBD TÜRKİYE BİLİŞİM DERNEĞİ | ac639136-d72d-4d97-9bb6-6681fe94d394 |
+| Haz 2026 | DİJİTAL PAZARLAMA YÖNTEMLERİ | TBD TÜRKİYE BİLİŞİM DERNEĞİ | 5b889697-dd18-4ad2-960f-f62dd8f630c0 |
+| Haz 2026 | BİLGİ GÜVENLİĞİ | TBD TÜRKİYE BİLİŞİM DERNEĞİ | f224f9b7-ce1e-4332-a54e-40115f18946e |
+| Haz 2026 | HTML | Bilgeİş | 2065904d-1057-4c69-b552-cd81e538fc51 |
+| Haz 2026 | İş Yerinde Psikolojik Taciz (Mobbing) | Bilgeİş | fb35c3d6-37c7-4b28-8142-ebf8db9fcf05 |
+| Haz 2026 | Ofiste Sağlıklı Yaşam | Bilgeİş | f048ca63-a61b-4457-aad2-aafb508e0aad |
+| Haz 2026 | İlk Yardım | Bilgeİş | 633a4680-cbc2-4719-8f34-8790b65e40bf |
+| Haz 2026 | Erişilebilir İş Yeri Tasarımı | Bilgeİş | 77b1ca12-556e-4b36-8105-27aaaf7d00dd |
+| Haz 2026 | Dronelar ve Ticari Amaçlı Kullanımları | Bilgeİş | 63a5b6cd-8829-4e1c-8e7a-0328518e9dc4 |
+| Haz 2026 | Güneş Enerjisinden Yararlanma | Bilgeİş | 76b9e099-84cb-4ed7-9119-2036e41ae412 |
 | Haz 2026 | KOBİ’ler İçin Sanal Gerçeklik | Bilgeİş | 3b6c9092-b762-486d-ad41-7f607a2627cd |
 | Haz 2026 | Yeni Başlayanlar İçin Raspberry Pi | Bilgeİş | fc6a2f8b-029c-4aaf-80f6-5b7594e90aa8 |
 | Haz 2026 | Prompt Mühendisliği | Turkcell Geleceği Yazanlar | — |
