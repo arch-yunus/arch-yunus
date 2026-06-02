@@ -121,7 +121,7 @@
     },
     {
         "text": "Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin",
-        "used": false
+        "used": true
     },
     {
         "text": "Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu",
@@ -137,7 +137,7 @@
     },
     {
         "text": "Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi",
-        "used": false
+        "used": true
     },
     {
         "text": "Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani",
@@ -169,7 +169,7 @@
     },
     {
         "text": "Başarı, hazırlık ve fırsatın karşılaştığı yerdir. - Seneca",
-        "used": false
+        "used": true
     },
     {
         "text": "Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei",
@@ -217,7 +217,7 @@
     },
     {
         "text": "İnsanı yaşat ki devlet yaşasın. - Şeyh Edebali",
-        "used": false
+        "used": true
     },
     {
         "text": "Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna",
@@ -269,7 +269,7 @@
     },
     {
         "text": "Çok çalışmak, dehanın yarısıdır. - Aziz Sancar",
-        "used": false
+        "used": true
     },
     {
         "text": "Bilim yapmak için zekâdan önce sabır lazımdır. - Aziz Sancar",
