@@ -1,7 +1,7 @@
 [
     {
         "text": "Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet",
-        "used": false
+        "used": true
     },
     {
         "text": "Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu",
@@ -257,7 +257,7 @@
     },
     {
         "text": "Güçlü olan haklı değil, haklı olan güçlü olmalıdır. - Şeyh Şamil",
-        "used": false
+        "used": true
     },
     {
         "text": "İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles",
@@ -273,7 +273,7 @@
     },
     {
         "text": "Bilim yapmak için zekâdan önce sabır lazımdır. - Aziz Sancar",
-        "used": false
+        "used": true
     },
     {
         "text": "Üretmeyen toplumlar, tüketmeye ve yok olmaya mahkumdur. - Mehmet Akif Ersoy",
@@ -317,7 +317,7 @@
     },
     {
         "text": "Mantık sizi A'dan B'ye götürür, hayal gücü ise her yere. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein",
@@ -357,7 +357,7 @@
     },
     {
         "text": "Büyük beyinler fikirleri, orta beyinler olayları, küçük beyinler ise kişileri tartışır. - Eleanor Roosevelt",
-        "used": false
+        "used": true
     },
     {
         "text": "Kader, gayrete aşıktır. - Yunus Emre",
