@@ -196,17 +196,37 @@
 ## 🎓 Domain Certifications & Advanced Training
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Certification_Inventory-240%2B-00d4ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification_Inventory-260%2B-00d4ff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/UAV--1_Pilot_License-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO/IEC_27001-Lead_Auditor-00e676?style=for-the-badge&logoColor=white" />
 </div>
 
 <details>
-<summary><b>📜 Lisanslar ve Sertifikalar (240+)</b></summary>
+<summary><b>📜 Lisanslar ve Sertifikalar (260+)</b></summary>
 <br />
 
 | Date | Certification Name | Institution | Credential ID |
 | :--- | :--- | :--- | :--- |
+| Haz 2026 | 3 Boyutlu Yazıcıların Farklı Sektörlerde Kullanımı | Bilgeİş | b1a13948-40a1-4fda-8dd7-0736391023d1 |
+| Haz 2026 | Vitrin Tasarımı | Bilgeİş | 89ad6ed9-3c6a-44bb-8027-7579afd594ac |
+| Haz 2026 | Yiyecek İçecek Servisi | Bilgeİş | 7d1be7d6-69f3-4c1a-943f-f9eec417fba8 |
+| Haz 2026 | Proje Yönetimi Hakkında Temel Bilgiler | Bilgeİş | 581745ed-d71c-4b14-b7a1-3d43724a4a09 |
+| Haz 2026 | KOBİ’lerde Kurumsallaşma ve İstikrar İçin Markalaşma | Bilgeİş | da40a586-e522-4c2d-bdbd-fd64903e86fb |
+| Haz 2026 | Raspberry Pi ile İleri Seviye | Bilgeİş | e204fb6e-f7f0-4c40-885a-52420fd8495b |
+| Haz 2026 | İnovasyon | Bilgeİş | b99b5662-dd06-477e-b89b-bcb693cd11d3 |
+| Haz 2026 | Python Programlama - 1 | Bilgeİş | 38c4e588-048f-4834-9f24-91bc413c9b2c |
+| Haz 2026 | Web Konferans Araçlarına Ait Temel Kavramlar ve Başlıca Avantajlar | Bilgeİş | f0c789ea-1750-40e1-acd2-aced9ca5226e |
+| Haz 2026 | Proje Yönetimi Yazılımı - PROJECTLIBRE | Bilgeİş | 5ebac33d-1054-4459-a83d-010e69775a4f |
+| Haz 2026 | Çevrim İçi Form Oluşturma | Bilgeİş | b9c90eb6-ac35-452a-90bb-999f3abd3ab0 |
+| Haz 2026 | Odoo (OpenERP) Entegre İş Yönetim Uygulaması | Bilgeİş | 244eeb65-b2a9-4f30-bced-cc5092376d13 |
+| Haz 2026 | İşe Alım Süreci | Bilgeİş | 96547836-21cf-4d06-a1b3-58cc4679fd53 |
+| Haz 2026 | Google Slaytlar İle Etkili Sunum Hazırlama | Bilgeİş | a46225b5-0c02-44cb-82c6-75f8416a57a1 |
+| Haz 2026 | Arduino ile Mikrodenetleyiciler 2 (GirişÇıkış Arayüzleri) | Bilgeİş | 4915324a-9e0d-45be-a381-370f50040b08 |
+| Haz 2026 | KOBİ'ler İçin Kalite Belgelendirme Süreçleri | Bilgeİş | f06bba99-7efb-4ed8-bb54-8421de207149 |
+| Haz 2026 | KOBİ'lerin Yararlanabileceği Destekler | Bilgeİş | 6a8a393c-8c51-4bae-b8ed-729f4e2681f3 |
+| Haz 2026 | Dış Ticaret | Bilgeİş | 6ee13768-9902-4e99-940a-bc1eb52dc5ae |
+| Haz 2026 | Python Programlama - 2 | Bilgeİş | ffba9a75-e00f-4041-aee2-3667594325d1 |
+| Haz 2026 | KOBİ’lerin Bilgi ve İletişim Teknolojileri Deneyimleri | Bilgeİş | f75cc449-a64a-40f0-a499-e9eb4613c3be |
 | Haz 2026 | GİRİŞİMCİLİK Göknur ATALAY | TBD TÜRKİYE BİLİŞİM DERNEĞİ | 0a42b103-3f6b-4c2b-a9ac-4d524da87ff1 |
 | Haz 2026 | GİRİŞİMCİLİK Nazlı AKYAY | TBD TÜRKİYE BİLİŞİM DERNEĞİ | 53cc0f9c-1481-44fb-a9e6-1f63861e5135 |
 | Haz 2026 | GİRİŞİMCİLİK Ayşe Kuyrukcu | TBD TÜRKİYE BİLİŞİM DERNEĞİ | 4c4982fa-6abb-41b6-925c-d65ed8019582 |
