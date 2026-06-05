@@ -53,7 +53,7 @@
     },
     {
         "text": "Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Engelin kendisi, yolun kendisi olur. - Marcus Aurelius",
@@ -157,7 +157,7 @@
     },
     {
         "text": "Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet",
-        "used": false
+        "used": true
     },
     {
         "text": "Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci",
@@ -165,7 +165,7 @@
     },
     {
         "text": "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker",
-        "used": false
+        "used": true
     },
     {
         "text": "Başarı, hazırlık ve fırsatın karşılaştığı yerdir. - Seneca",
@@ -229,7 +229,7 @@
     },
     {
         "text": "Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş",
-        "used": false
+        "used": true
     },
     {
         "text": "Kahramanlar can verir yurdu yaşatmak için. - Hüseyin Nihal Atsız",
@@ -329,7 +329,7 @@
     },
     {
         "text": "Hazırlıklı olmayı başaramazsanız, başarısızlığa hazırlanmış olursunuz. - Benjamin Franklin",
-        "used": false
+        "used": true
     },
     {
         "text": "Daha iyi olmaya çalışmayan, iyi olarak da kalamaz. - Oliver Cromwell",
