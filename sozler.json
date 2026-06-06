@@ -113,7 +113,7 @@
     },
     {
         "text": "Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî",
@@ -189,7 +189,7 @@
     },
     {
         "text": "Bilgi güçtür. - Francis Bacon",
-        "used": false
+        "used": true
     },
     {
         "text": "Hatalar, keşfin kapılarıdır. - James Joyce",
@@ -201,7 +201,7 @@
     },
     {
         "text": "Zamanın nizamı, sabrın meyvesidir. - Şeyh Edebali",
-        "used": false
+        "used": true
     },
     {
         "text": "Geçmişin hatası, geleceğin rehberidir. - Gazali",
@@ -333,7 +333,7 @@
     },
     {
         "text": "Daha iyi olmaya çalışmayan, iyi olarak da kalamaz. - Oliver Cromwell",
-        "used": false
+        "used": true
     },
     {
         "text": "Dünya bir gemi, akıl dümeni, asıl amaç ise menzile selametle varmaktır. - Katip Çelebi",
@@ -361,7 +361,7 @@
     },
     {
         "text": "Kader, gayrete aşıktır. - Yunus Emre",
-        "used": false
+        "used": true
     },
     {
         "text": "En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles",
