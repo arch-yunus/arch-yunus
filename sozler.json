@@ -89,7 +89,7 @@
     },
     {
         "text": "Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun",
@@ -105,7 +105,7 @@
     },
     {
         "text": "İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet",
-        "used": false
+        "used": true
     },
     {
         "text": "İnsanları tanıyan yalnızlaşır. - Hz. Ali",
@@ -173,7 +173,7 @@
     },
     {
         "text": "Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei",
-        "used": false
+        "used": true
     },
     {
         "text": "Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates",
@@ -185,7 +185,7 @@
     },
     {
         "text": "Mükemmellik ekleyecek bir şey kalmadığında değil, çıkaracak bir şey kalmadığında elde edilir. - Antoine de Saint-Exupéry",
-        "used": false
+        "used": true
     },
     {
         "text": "Bilgi güçtür. - Francis Bacon",
@@ -233,7 +233,7 @@
     },
     {
         "text": "Kahramanlar can verir yurdu yaşatmak için. - Hüseyin Nihal Atsız",
-        "used": false
+        "used": true
     },
     {
         "text": "Vatan ne Türkiyedir Türklere, ne Türkistan Vatan, büyük ve müebbet bir ülkedir: Turan. - Ziya Gökalp",
