@@ -33,7 +33,7 @@
     },
     {
         "text": "Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç",
-        "used": false
+        "used": true
     },
     {
         "text": "Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon",
@@ -85,7 +85,7 @@
     },
     {
         "text": "Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk",
-        "used": false
+        "used": true
     },
     {
         "text": "Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun",
@@ -125,7 +125,7 @@
     },
     {
         "text": "Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu",
-        "used": false
+        "used": true
     },
     {
         "text": "Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev",
@@ -161,7 +161,7 @@
     },
     {
         "text": "Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci",
-        "used": false
+        "used": true
     },
     {
         "text": "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker",
@@ -225,7 +225,7 @@
     },
     {
         "text": "Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina",
-        "used": false
+        "used": true
     },
     {
         "text": "Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş",
