@@ -490,7 +490,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=dHBQ6jyLRwc" target="_blank">
+  <a href="https://www.youtube.com/watch?v=EraIh0zZ2WQ&t=58s" target="_blank">
     <img src="assets/tech_banner_v2.png" width="100%" alt="Cinematic Tech Banner v2" />
   </a>
 </div>
