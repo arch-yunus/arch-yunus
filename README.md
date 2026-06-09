@@ -491,7 +491,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dHBQ6jyLRwc" target="_blank">
-    <img src="assets/linkedin_banner.png" width="100%" alt="Ultra-Futuristic LinkedIn Banner" />
+    <img src="assets/tech_banner_v2.png" width="100%" alt="Cinematic Tech Banner v2" />
   </a>
 </div>
 
