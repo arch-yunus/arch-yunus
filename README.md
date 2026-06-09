@@ -491,7 +491,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dHBQ6jyLRwc" target="_blank">
-    <img src="assets/sereflikochisar_bozkir_banner.png" width="100%" alt="Şereflikoçhisar Bozkır Edge-AI Footer Banner" />
+    <img src="assets/linkedin_banner.png" width="100%" alt="Ultra-Futuristic LinkedIn Banner" />
   </a>
 </div>
 
