@@ -121,7 +121,7 @@
     },
     {
         "text": "Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin",
-        "used": false
+        "used": true
     },
     {
         "text": "Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu",
@@ -209,7 +209,7 @@
     },
     {
         "text": "Zihin, ne ile beslenirse onunla büyür. - Cahit Arf",
-        "used": false
+        "used": true
     },
     {
         "text": "Matematik esasen sabır işidir. Belleyerek değil keşfederek anlamak gerekir. - Cahit Arf",
@@ -305,7 +305,7 @@
     },
     {
         "text": "Hayal gücü, bilgiden daha önemlidir. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Zorlukların ortasında fırsatlar yatar. - Albert Einstein",
@@ -353,11 +353,11 @@
     },
     {
         "text": "Zayıf olan, güçlü olandan daha çok şanslıdır; çünkü güçlü olanın artık gidecek yolu kalmamıştır. - Friedrich Nietzsche",
-        "used": false
+        "used": true
     },
     {
         "text": "Büyük beyinler fikirleri, orta beyinler olayları, küçük beyinler ise kişileri tartışır. - Eleanor Roosevelt",
-        "used": false
+        "used": true
     },
     {
         "text": "Kader, gayrete aşıktır. - Yunus Emre",
