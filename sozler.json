@@ -17,7 +17,7 @@
     },
     {
         "text": "Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna",
-        "used": false
+        "used": true
     },
     {
         "text": "En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu",
@@ -77,7 +77,7 @@
     },
     {
         "text": "Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna",
@@ -145,7 +145,7 @@
     },
     {
         "text": "İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu",
-        "used": false
+        "used": true
     },
     {
         "text": "Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun",
@@ -241,7 +241,7 @@
     },
     {
         "text": "Ülküsüz insan çamurdan farkı olmayan bir varlıktır. - Hüseyin Nihal Atsız",
-        "used": false
+        "used": true
     },
     {
         "text": "Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan",
@@ -345,7 +345,7 @@
     },
     {
         "text": "Yalnızca bilmek yetmez, uygulamak da gerekir; istemek yetmez, yapmak da gerekir. - Johann Wolfgang von Goethe",
-        "used": false
+        "used": true
     },
     {
         "text": "Kaosun içinde fırsat yatar. - Sun Tzu",
