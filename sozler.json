@@ -81,7 +81,7 @@
     },
     {
         "text": "Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna",
-        "used": false
+        "used": true
     },
     {
         "text": "Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk",
@@ -101,7 +101,7 @@
     },
     {
         "text": "En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo",
-        "used": false
+        "used": true
     },
     {
         "text": "İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet",
@@ -157,7 +157,7 @@
     },
     {
         "text": "Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet",
-        "used": false
+        "used": true
     },
     {
         "text": "Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci",
@@ -189,7 +189,7 @@
     },
     {
         "text": "Bilgi güçtür. - Francis Bacon",
-        "used": false
+        "used": true
     },
     {
         "text": "Hatalar, keşfin kapılarıdır. - James Joyce",
@@ -297,7 +297,7 @@
     },
     {
         "text": "En büyük zafer, hiç düşmemek değil, her düştüğünde ayağa kalkmaktır. - Konfüçyüs",
-        "used": false
+        "used": true
     },
     {
         "text": "Zayıf insanlar intikam alır, güçlü insanlar affeder, zeki insanlar umursamaz. - Albert Einstein",
