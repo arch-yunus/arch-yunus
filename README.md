@@ -196,17 +196,23 @@
 ## 🎓 Domain Certifications & Advanced Training
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Certification_Inventory-260%2B-00d4ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification_Inventory-266%2B-00d4ff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/UAV--1_Pilot_License-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO/IEC_27001-Lead_Auditor-00e676?style=for-the-badge&logoColor=white" />
 </div>
 
 <details>
-<summary><b>📜 Lisanslar ve Sertifikalar (260+)</b></summary>
+<summary><b>📜 Lisanslar ve Sertifikalar (266+)</b></summary>
 <br />
 
 | Date | Certification Name | Institution | Credential ID |
 | :--- | :--- | :--- | :--- |
+| Haz 2026 | HTML5 & CSS3 – Ders 3 | Bilgeİş | ad616b65-53ef-4c5d-9b8f-00cd6cf1fa43 |
+| Haz 2026 | HTML5 & CSS3 – Ders 2 | Bilgeİş | b100b204-76e2-4968-a82a-8d8e4c9950c9 |
+| Haz 2026 | HTML5 & CSS3 – Ders 1 | Bilgeİş | a3e692f7-e470-47ad-85f6-a1af0bccf3af |
+| Haz 2026 | Web Tasarımının Temelleri HTML ve CSS | Bilgeİş | e4492f1b-9f9c-4291-bd36-1bc6dc72e30b |
+| Haz 2026 | Wordpress Kullanarak Web Sitesi Hazırlama | Bilgeİş | 18e5f0bd-5721-46ed-8f12-e5c93e11634e |
+| Haz 2026 | 3 Boyutlu Yazıcı Teknolojisine Giriş | Bilgeİş | b08b003f-50e0-4f79-a199-9d85cade4648 |
 | Haz 2026 | 3 Boyutlu Yazıcıların Farklı Sektörlerde Kullanımı | Bilgeİş | b1a13948-40a1-4fda-8dd7-0736391023d1 |
 | Haz 2026 | Vitrin Tasarımı | Bilgeİş | 89ad6ed9-3c6a-44bb-8027-7579afd594ac |
 | Haz 2026 | Yiyecek İçecek Servisi | Bilgeİş | 7d1be7d6-69f3-4c1a-943f-f9eec417fba8 |
