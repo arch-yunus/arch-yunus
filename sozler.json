@@ -13,7 +13,7 @@
     },
     {
         "text": "İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna",
@@ -173,7 +173,7 @@
     },
     {
         "text": "Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei",
-        "used": false
+        "used": true
     },
     {
         "text": "Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates",
@@ -185,7 +185,7 @@
     },
     {
         "text": "Mükemmellik ekleyecek bir şey kalmadığında değil, çıkaracak bir şey kalmadığında elde edilir. - Antoine de Saint-Exupéry",
-        "used": false
+        "used": true
     },
     {
         "text": "Bilgi güçtür. - Francis Bacon",
@@ -257,7 +257,7 @@
     },
     {
         "text": "Güçlü olan haklı değil, haklı olan güçlü olmalıdır. - Şeyh Şamil",
-        "used": false
+        "used": true
     },
     {
         "text": "İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles",
@@ -365,7 +365,7 @@
     },
     {
         "text": "En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles",
-        "used": false
+        "used": true
     },
     {
         "text": "Dostu olmayan bir insan, bir kolu olmayan bir insana benzer. - Hz. Ömer",
