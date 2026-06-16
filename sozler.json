@@ -25,7 +25,7 @@
     },
     {
         "text": "Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius",
-        "used": false
+        "used": true
     },
     {
         "text": "Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna",
@@ -113,7 +113,7 @@
     },
     {
         "text": "Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî",
@@ -161,7 +161,7 @@
     },
     {
         "text": "Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci",
-        "used": false
+        "used": true
     },
     {
         "text": "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker",
@@ -309,7 +309,7 @@
     },
     {
         "text": "Zorlukların ortasında fırsatlar yatar. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Aynı şeyi tekrar tekrar yapıp farklı sonuçlar beklemek deliliktir. - Albert Einstein",
@@ -317,7 +317,7 @@
     },
     {
         "text": "Mantık sizi A'dan B'ye götürür, hayal gücü ise her yere. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein",
