@@ -57,7 +57,7 @@
     },
     {
         "text": "Engelin kendisi, yolun kendisi olur. - Marcus Aurelius",
-        "used": false
+        "used": true
     },
     {
         "text": "Zulüm ile abad olanın, ahiri berbad olur. - Molla Gürani",
@@ -117,7 +117,7 @@
     },
     {
         "text": "Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî",
-        "used": false
+        "used": true
     },
     {
         "text": "Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin",
@@ -229,7 +229,7 @@
     },
     {
         "text": "Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş",
-        "used": false
+        "used": true
     },
     {
         "text": "Kahramanlar can verir yurdu yaşatmak için. - Hüseyin Nihal Atsız",
@@ -285,7 +285,7 @@
     },
     {
         "text": "İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek",
-        "used": false
+        "used": true
     },
     {
         "text": "Devler gibi eserler bırakmak için, karıncalar gibi çalışmak lazım. - Necip Fazıl Kısakürek",
@@ -361,7 +361,7 @@
     },
     {
         "text": "Kader, gayrete aşıktır. - Yunus Emre",
-        "used": false
+        "used": true
     },
     {
         "text": "En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles",
