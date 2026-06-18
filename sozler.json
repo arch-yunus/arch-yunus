@@ -37,7 +37,7 @@
     },
     {
         "text": "Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon",
-        "used": false
+        "used": true
     },
     {
         "text": "Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali",
@@ -129,7 +129,7 @@
     },
     {
         "text": "Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev",
-        "used": false
+        "used": true
     },
     {
         "text": "Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali",
@@ -149,7 +149,7 @@
     },
     {
         "text": "Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Mağluplar galipleri taklit ederler. - İbn Haldun",
@@ -301,7 +301,7 @@
     },
     {
         "text": "Zayıf insanlar intikam alır, güçlü insanlar affeder, zeki insanlar umursamaz. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Hayal gücü, bilgiden daha önemlidir. - Albert Einstein",
@@ -341,7 +341,7 @@
     },
     {
         "text": "Gerçeği arayanlar, her zaman yanılmayı göze almalıdırlar. - Karl Popper",
-        "used": false
+        "used": true
     },
     {
         "text": "Yalnızca bilmek yetmez, uygulamak da gerekir; istemek yetmez, yapmak da gerekir. - Johann Wolfgang von Goethe",
