@@ -133,11 +133,11 @@
     },
     {
         "text": "Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi",
-        "used": false
+        "used": true
     },
     {
         "text": "Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani",
@@ -221,7 +221,7 @@
     },
     {
         "text": "Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna",
-        "used": false
+        "used": true
     },
     {
         "text": "Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina",
@@ -349,7 +349,7 @@
     },
     {
         "text": "Kaosun içinde fırsat yatar. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Zayıf olan, güçlü olandan daha çok şanslıdır; çünkü güçlü olanın artık gidecek yolu kalmamıştır. - Friedrich Nietzsche",
@@ -369,7 +369,7 @@
     },
     {
         "text": "Dostu olmayan bir insan, bir kolu olmayan bir insana benzer. - Hz. Ömer",
-        "used": false
+        "used": true
     },
     {
         "text": "Ölüm, hayatta bir son değildir; asıl son, insanın vicdanının ölmesidir. - Aliya İzzetbegoviç",
