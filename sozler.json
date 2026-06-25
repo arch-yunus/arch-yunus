@@ -5,7 +5,7 @@
     },
     {
         "text": "Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu",
-        "used": false
+        "used": true
     },
     {
         "text": "Coğrafya kaderdir. - İbn Haldun",
@@ -205,7 +205,7 @@
     },
     {
         "text": "Geçmişin hatası, geleceğin rehberidir. - Gazali",
-        "used": false
+        "used": true
     },
     {
         "text": "Zihin, ne ile beslenirse onunla büyür. - Cahit Arf",
@@ -321,7 +321,7 @@
     },
     {
         "text": "Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Zamanı geri getiremezsin ama onu en verimli şekilde yönetebilirsin. - Benjamin Franklin",
@@ -329,7 +329,7 @@
     },
     {
         "text": "Hazırlıklı olmayı başaramazsanız, başarısızlığa hazırlanmış olursunuz. - Benjamin Franklin",
-        "used": false
+        "used": true
     },
     {
         "text": "Daha iyi olmaya çalışmayan, iyi olarak da kalamaz. - Oliver Cromwell",
@@ -373,6 +373,6 @@
     },
     {
         "text": "Ölüm, hayatta bir son değildir; asıl son, insanın vicdanının ölmesidir. - Aliya İzzetbegoviç",
-        "used": false
+        "used": true
     }
 ]
