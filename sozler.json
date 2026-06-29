@@ -9,7 +9,7 @@
     },
     {
         "text": "Coğrafya kaderdir. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali",
@@ -25,7 +25,7 @@
     },
     {
         "text": "Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius",
-        "used": false
+        "used": true
     },
     {
         "text": "Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna",
@@ -49,7 +49,7 @@
     },
     {
         "text": "Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius",
-        "used": false
+        "used": true
     },
     {
         "text": "Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu",
@@ -97,7 +97,7 @@
     },
     {
         "text": "Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo",
@@ -261,7 +261,7 @@
     },
     {
         "text": "İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles",
-        "used": false
+        "used": true
     },
     {
         "text": "İlim, gerçeğin peşinde nefes tüketmektir. - Aziz Sancar",
