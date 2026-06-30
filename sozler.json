@@ -17,7 +17,7 @@
     },
     {
         "text": "Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna",
-        "used": false
+        "used": true
     },
     {
         "text": "En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu",
@@ -37,7 +37,7 @@
     },
     {
         "text": "Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon",
-        "used": false
+        "used": true
     },
     {
         "text": "Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali",
@@ -113,7 +113,7 @@
     },
     {
         "text": "Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî",
@@ -145,7 +145,7 @@
     },
     {
         "text": "İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu",
-        "used": false
+        "used": true
     },
     {
         "text": "Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun",
@@ -181,7 +181,7 @@
     },
     {
         "text": "Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid",
-        "used": false
+        "used": true
     },
     {
         "text": "Mükemmellik ekleyecek bir şey kalmadığında değil, çıkaracak bir şey kalmadığında elde edilir. - Antoine de Saint-Exupéry",
