@@ -29,7 +29,7 @@
     },
     {
         "text": "Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna",
-        "used": false
+        "used": true
     },
     {
         "text": "Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç",
@@ -61,7 +61,7 @@
     },
     {
         "text": "Zulüm ile abad olanın, ahiri berbad olur. - Molla Gürani",
-        "used": false
+        "used": true
     },
     {
         "text": "Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç",
@@ -121,7 +121,7 @@
     },
     {
         "text": "Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin",
-        "used": false
+        "used": true
     },
     {
         "text": "Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu",
@@ -165,7 +165,7 @@
     },
     {
         "text": "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker",
-        "used": false
+        "used": true
     },
     {
         "text": "Başarı, hazırlık ve fırsatın karşılaştığı yerdir. - Seneca",
@@ -285,7 +285,7 @@
     },
     {
         "text": "İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek",
-        "used": false
+        "used": true
     },
     {
         "text": "Devler gibi eserler bırakmak için, karıncalar gibi çalışmak lazım. - Necip Fazıl Kısakürek",
