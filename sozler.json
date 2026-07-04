@@ -77,7 +77,7 @@
     },
     {
         "text": "Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna",
@@ -125,11 +125,11 @@
     },
     {
         "text": "Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu",
-        "used": false
+        "used": true
     },
     {
         "text": "Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev",
-        "used": false
+        "used": true
     },
     {
         "text": "Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali",
@@ -177,7 +177,7 @@
     },
     {
         "text": "Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates",
-        "used": false
+        "used": true
     },
     {
         "text": "Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid",
@@ -205,7 +205,7 @@
     },
     {
         "text": "Geçmişin hatası, geleceğin rehberidir. - Gazali",
-        "used": false
+        "used": true
     },
     {
         "text": "Zihin, ne ile beslenirse onunla büyür. - Cahit Arf",
