@@ -41,7 +41,7 @@
     },
     {
         "text": "Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "İlim kılıcın kesemediği düğümleri çözer. - Molla Gürani",
@@ -105,7 +105,7 @@
     },
     {
         "text": "İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet",
-        "used": false
+        "used": true
     },
     {
         "text": "İnsanları tanıyan yalnızlaşır. - Hz. Ali",
@@ -245,7 +245,7 @@
     },
     {
         "text": "Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan",
-        "used": false
+        "used": true
     },
     {
         "text": "Devletin temeli adalettir. - Hz. Ömer",
@@ -337,7 +337,7 @@
     },
     {
         "text": "Dünya bir gemi, akıl dümeni, asıl amaç ise menzile selametle varmaktır. - Katip Çelebi",
-        "used": false
+        "used": true
     },
     {
         "text": "Gerçeği arayanlar, her zaman yanılmayı göze almalıdırlar. - Karl Popper",
@@ -373,6 +373,6 @@
     },
     {
         "text": "Ölüm, hayatta bir son değildir; asıl son, insanın vicdanının ölmesidir. - Aliya İzzetbegoviç",
-        "used": false
+        "used": true
     }
 ]
