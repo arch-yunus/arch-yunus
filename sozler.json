@@ -21,7 +21,7 @@
     },
     {
         "text": "En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius",
@@ -33,7 +33,7 @@
     },
     {
         "text": "Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç",
-        "used": false
+        "used": true
     },
     {
         "text": "Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon",
@@ -101,7 +101,7 @@
     },
     {
         "text": "En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo",
-        "used": false
+        "used": true
     },
     {
         "text": "İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet",
@@ -153,7 +153,7 @@
     },
     {
         "text": "Mağluplar galipleri taklit ederler. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet",
@@ -329,7 +329,7 @@
     },
     {
         "text": "Hazırlıklı olmayı başaramazsanız, başarısızlığa hazırlanmış olursunuz. - Benjamin Franklin",
-        "used": false
+        "used": true
     },
     {
         "text": "Daha iyi olmaya çalışmayan, iyi olarak da kalamaz. - Oliver Cromwell",
