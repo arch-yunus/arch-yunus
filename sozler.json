@@ -53,7 +53,7 @@
     },
     {
         "text": "Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Engelin kendisi, yolun kendisi olur. - Marcus Aurelius",
@@ -85,7 +85,7 @@
     },
     {
         "text": "Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk",
-        "used": false
+        "used": true
     },
     {
         "text": "Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun",
@@ -209,7 +209,7 @@
     },
     {
         "text": "Zihin, ne ile beslenirse onunla büyür. - Cahit Arf",
-        "used": false
+        "used": true
     },
     {
         "text": "Matematik esasen sabır işidir. Belleyerek değil keşfederek anlamak gerekir. - Cahit Arf",
@@ -221,7 +221,7 @@
     },
     {
         "text": "Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna",
-        "used": false
+        "used": true
     },
     {
         "text": "Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina",
@@ -293,7 +293,7 @@
     },
     {
         "text": "Düşünüyorum, öyleyse varım. - Rene Descartes",
-        "used": false
+        "used": true
     },
     {
         "text": "En büyük zafer, hiç düşmemek değil, her düştüğünde ayağa kalkmaktır. - Konfüçyüs",
