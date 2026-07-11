@@ -93,7 +93,7 @@
     },
     {
         "text": "Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu",
@@ -173,7 +173,7 @@
     },
     {
         "text": "Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei",
-        "used": false
+        "used": true
     },
     {
         "text": "Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates",
@@ -237,7 +237,7 @@
     },
     {
         "text": "Vatan ne Türkiyedir Türklere, ne Türkistan Vatan, büyük ve müebbet bir ülkedir: Turan. - Ziya Gökalp",
-        "used": false
+        "used": true
     },
     {
         "text": "Ülküsüz insan çamurdan farkı olmayan bir varlıktır. - Hüseyin Nihal Atsız",
@@ -269,7 +269,7 @@
     },
     {
         "text": "Çok çalışmak, dehanın yarısıdır. - Aziz Sancar",
-        "used": false
+        "used": true
     },
     {
         "text": "Bilim yapmak için zekâdan önce sabır lazımdır. - Aziz Sancar",
@@ -361,7 +361,7 @@
     },
     {
         "text": "Kader, gayrete aşıktır. - Yunus Emre",
-        "used": false
+        "used": true
     },
     {
         "text": "En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles",
