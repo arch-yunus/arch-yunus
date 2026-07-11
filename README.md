@@ -496,8 +496,8 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=f-tUvDMciJU" target="_blank">
-    <img src="https://img.youtube.com/vi/f-tUvDMciJU/maxresdefault.jpg" width="100%" alt="Cinematic Tech Banner v2" />
+  <a href="https://www.youtube.com/watch?v=BuEh5EVzRDg" target="_blank">
+    <img src="https://img.youtube.com/vi/wGRqYnVEOAA/maxresdefault.jpg" width="100%" alt="Cinematic Tech Banner v2" />
   </a>
 </div>
 
