@@ -89,7 +89,7 @@
     },
     {
         "text": "Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun",
@@ -193,7 +193,7 @@
     },
     {
         "text": "Hatalar, keşfin kapılarıdır. - James Joyce",
-        "used": false
+        "used": true
     },
     {
         "text": "Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn",
@@ -241,7 +241,7 @@
     },
     {
         "text": "Ülküsüz insan çamurdan farkı olmayan bir varlıktır. - Hüseyin Nihal Atsız",
-        "used": false
+        "used": true
     },
     {
         "text": "Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan",
@@ -289,7 +289,7 @@
     },
     {
         "text": "Devler gibi eserler bırakmak için, karıncalar gibi çalışmak lazım. - Necip Fazıl Kısakürek",
-        "used": false
+        "used": true
     },
     {
         "text": "Düşünüyorum, öyleyse varım. - Rene Descartes",
@@ -325,7 +325,7 @@
     },
     {
         "text": "Zamanı geri getiremezsin ama onu en verimli şekilde yönetebilirsin. - Benjamin Franklin",
-        "used": false
+        "used": true
     },
     {
         "text": "Hazırlıklı olmayı başaramazsanız, başarısızlığa hazırlanmış olursunuz. - Benjamin Franklin",
