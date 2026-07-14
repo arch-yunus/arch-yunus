@@ -13,7 +13,7 @@
     },
     {
         "text": "İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna",
@@ -141,7 +141,7 @@
     },
     {
         "text": "Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani",
-        "used": false
+        "used": true
     },
     {
         "text": "İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu",
@@ -281,7 +281,7 @@
     },
     {
         "text": "Girmeden tefrika bir millete, düşman giremez. - Mehmet Akif Ersoy",
-        "used": false
+        "used": true
     },
     {
         "text": "İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek",
@@ -341,7 +341,7 @@
     },
     {
         "text": "Gerçeği arayanlar, her zaman yanılmayı göze almalıdırlar. - Karl Popper",
-        "used": false
+        "used": true
     },
     {
         "text": "Yalnızca bilmek yetmez, uygulamak da gerekir; istemek yetmez, yapmak da gerekir. - Johann Wolfgang von Goethe",
@@ -349,7 +349,7 @@
     },
     {
         "text": "Kaosun içinde fırsat yatar. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Zayıf olan, güçlü olandan daha çok şanslıdır; çünkü güçlü olanın artık gidecek yolu kalmamıştır. - Friedrich Nietzsche",
