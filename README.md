@@ -500,5 +500,5 @@
     <img src="https://img.youtube.com/vi/wGRqYnVEOAA/maxresdefault.jpg" width="100%" alt="Cinematic Tech Banner v2" />
   </a>
 </div>
-.
+
 
