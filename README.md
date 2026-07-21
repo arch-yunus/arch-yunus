@@ -488,7 +488,7 @@
   <i>"Architecture is about the important stuff. Whatever that is." — Ralph Johnson</i>
   <br><br>
   <b>Bahattin Yunus ÇETİN</b><br>
-  <i>Founder @ Budak | AI Researcher & Edge-AI Developer</i><br>
+  <i>Founder @ Arat | AI Researcher & Edge-AI Developer</i><br>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=00d4ff&center=true&vCenter=true&width=500&height=30&lines=%5B%E2%97%8F%5D+Dijital+Seyyah%3A+Active+%2F+Mobile;%5B%E2%97%8F%5D+Nomadic+Hub%3A+Live+-+AI+Lab;%5B%E2%97%8F%5D+Status%3A+Living+at+the+Edge;%5B%E2%97%8F%5D+Awaiting+Mission+Parameters..." alt="Live Telemetry" />
   <br>
