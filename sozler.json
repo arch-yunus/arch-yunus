@@ -69,7 +69,7 @@
     },
     {
         "text": "Padişahlık, adaletle kaimdir; zulümle payidar olmaz. - II. Murat",
-        "used": false
+        "used": true
     },
     {
         "text": "Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa",
@@ -77,7 +77,7 @@
     },
     {
         "text": "Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna",
@@ -221,7 +221,7 @@
     },
     {
         "text": "Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna",
-        "used": false
+        "used": true
     },
     {
         "text": "Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina",
@@ -321,7 +321,7 @@
     },
     {
         "text": "Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Zamanı geri getiremezsin ama onu en verimli şekilde yönetebilirsin. - Benjamin Franklin",
@@ -345,7 +345,7 @@
     },
     {
         "text": "Yalnızca bilmek yetmez, uygulamak da gerekir; istemek yetmez, yapmak da gerekir. - Johann Wolfgang von Goethe",
-        "used": false
+        "used": true
     },
     {
         "text": "Kaosun içinde fırsat yatar. - Sun Tzu",
