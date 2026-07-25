@@ -6,6 +6,8 @@
     <img src="https://img.youtube.com/vi/FVkqlwken9E/maxresdefault.jpg" width="100%" alt="Cinematic Tech Banner v2" />
   </a>
 </div>
+  <br>
+  <br>
 
 
 <div align="center">
