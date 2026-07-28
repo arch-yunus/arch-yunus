@@ -21,7 +21,7 @@
     },
     {
         "text": "En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius",
@@ -89,7 +89,7 @@
     },
     {
         "text": "Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun",
@@ -97,7 +97,7 @@
     },
     {
         "text": "Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo",
@@ -165,7 +165,7 @@
     },
     {
         "text": "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker",
-        "used": false
+        "used": true
     },
     {
         "text": "Başarı, hazırlık ve fırsatın karşılaştığı yerdir. - Seneca",
@@ -365,7 +365,7 @@
     },
     {
         "text": "En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles",
-        "used": false
+        "used": true
     },
     {
         "text": "Dostu olmayan bir insan, bir kolu olmayan bir insana benzer. - Hz. Ömer",
