@@ -504,7 +504,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=00d4ff&center=true&vCenter=true&width=500&height=30&lines=%5B%E2%97%8F%5D+Dijital+Seyyah%3A+Active+%2F+Mobile;%5B%E2%97%8F%5D+Nomadic+Hub%3A+Live+-+AI+Lab;%5B%E2%97%8F%5D+Status%3A+Living+at+the+Edge;%5B%E2%97%8F%5D+Awaiting+Mission+Parameters..." alt="Live Telemetry" />
   <br>
   <small>© 2026 — Built with Precision & Intent</small>
-<div align="center">
+<!--
+  <div align="center">
   <a href="https://www.youtube.com/watch?v=dHBQ6jyLRwc&list=RDdHBQ6jyLRwc&start_radio=1" target="_blank">
     <img src="https://img.youtube.com/vi/bQCmXY6WZYs/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
   </a>
