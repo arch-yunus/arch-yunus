@@ -506,7 +506,7 @@
   <small>© 2026 — Built with Precision & Intent</small>
   
   <div align="center">
-  <a href="https://www.youtube.com/watch?v=K-Glb__HCCo" target="_blank">
+  <a href="https://www.youtube.com/watch?v=WjNBbmekR7k&list=RDWjNBbmekR7k&start_radio=1" target="_blank">
     <img src="https://img.youtube.com/vi/K-Glb__HCCo/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
   </a>
 </div>
