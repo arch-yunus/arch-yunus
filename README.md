@@ -506,8 +506,8 @@
   <small>© 2026 — Built with Precision & Intent</small>
   
   <div align="center">
-  <a href="https://www.youtube.com/watch?v=dHBQ6jyLRwc&list=RDdHBQ6jyLRwc&start_radio=1" target="_blank">
-    <img src="https://img.youtube.com/vi/bQCmXY6WZYs/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
+  <a href="https://www.youtube.com/watch?v=JZIWRw8AnT0&list=RDSS8vaEqrO7A&index=14" target="_blank">
+    <img src="https://img.youtube.com/vi/JZIWRw8AnT0/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
   </a>
 </div>
 
